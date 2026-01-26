@@ -4,7 +4,7 @@ This project focuses on classifying Indian news articles into categories such as
 Business, Politics, Defence, Sports, Technology, Education, and Entertainment
 using Natural Language Processing techniques.
 
-##The model uses TF-IDF vectorization along with Multinomial Naive Bayes
+The model uses TF-IDF vectorization along with Multinomial Naive Bayes
 for text classification.
 
 A key challenge in the dataset was that articles related to politics and defence
