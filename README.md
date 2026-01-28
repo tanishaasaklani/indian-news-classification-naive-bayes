@@ -30,5 +30,5 @@ This project is part of the 30 Days 30 Machine Learning Projects challenge.
     ```
 
 ## 📬 Contact
-Created by **Tanishaa Saklani** - MCA AI & DS Student.
+Created by **Tanisha Saklani** - MCA AI & DS Student.
 Open to feedback!
