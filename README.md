@@ -15,7 +15,7 @@ Model performance was evaluated using accuracy(91%) and a confusion matrix.
 
 This project is part of the 30 Days 30 Machine Learning Projects challenge.
 
-## 🚀 How to Run
+##  How to Run
 1.  Clone the repository:
     ```bash
     git clone https://github.com/tanishaasaklani/indian-news-classification-naive-bayes.git
